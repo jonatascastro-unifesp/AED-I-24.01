@@ -1,3 +1,5 @@
+// 1069 - Diamantes e Areia
+
 #include <string.h>
 #include <stdio.h>
 
